@@ -39,3 +39,6 @@ The analysis of the election show that:
 ![image](https://user-images.githubusercontent.com/90656004/139183199-4cb73750-b98f-44b0-961c-1ed8ce46473d.png)
 
 ## Election Audit Summary
+The election commission can use this script for any election. Adding the analysis of how the votes were distributed among the counties shows how adaptable the script can be. Other modifications to the script can be made to provide insights into other aspects of future elections. If the election commission chooses to use this script in the future, they could do the following:
+- Change the data in the CSV file to show different candidates, counties, and number of voters and then edit the lines of the script where it is referenced
+- Add more granular data about the breakdown of how the counties voted for each candidate to the CSV file and then adding another decision statement to the script to reflect the additional information
